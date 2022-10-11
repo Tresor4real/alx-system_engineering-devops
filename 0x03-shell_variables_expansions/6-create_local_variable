@@ -1,0 +1,3 @@
+#!/bin/bash
+export BEST='School'
+$ wc -l 6-create_local_variable
