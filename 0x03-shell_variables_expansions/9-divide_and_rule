@@ -1,0 +1,3 @@
+#!/bin/bash
+echo $((POWER/DIVIDE))
+$ wc -l 9-divide_and_rule
