@@ -1,0 +1,3 @@
+#!/bin/bash
+set | less
+$ wc -l 5-local_variables
