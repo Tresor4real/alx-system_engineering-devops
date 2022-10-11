@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "hello $Tresor"
+$ wc -l 1-hello_you
+
