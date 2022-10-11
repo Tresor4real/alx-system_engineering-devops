@@ -1,0 +1,3 @@
+#!/bin/bash
+printf %x'╲n' $DECIMAL
+$ wc -l   100-decimal_to_hexadecimal
