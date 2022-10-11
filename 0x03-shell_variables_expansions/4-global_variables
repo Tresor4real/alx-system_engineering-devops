@@ -1,0 +1,3 @@
+#!/bin/bash
+printenv
+$ wc -l 4-global_variables
