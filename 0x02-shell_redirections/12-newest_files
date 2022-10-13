@@ -1,0 +1,3 @@
+#!/bin/bash
+ls -t | head
+$ wc -l    12-newest_files
